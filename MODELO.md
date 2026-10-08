@@ -1,9 +1,7 @@
 ---
-title: termo
+title: git cat-file
 ---
 
-# termo
+# git cat-file
 
-(Duas a quatro linhas explicando o termo, com as suas palavras.
-Uma delas precisa trazer um exemplo concreto: um comando, ou uma
-situação em que o termo aparece.)
+Uma ferramenta de análise do Git que permite examinar os elementos internos armazenados em um repositório. Ela pode ser utilizada para identificar a categoria de um objeto, verificar seu tamanho e visualizar os dados que ele contém. Esse recurso é útil para compreender como o Git organiza e gerencia informações como arquivos, diretórios e registros de alterações dentro de sua estrutura interna.
